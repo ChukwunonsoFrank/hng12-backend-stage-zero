@@ -9,7 +9,7 @@ export default {
     response.status(200).json({
       email: 'franknonso114@gmail.com',
       current_datetime: computeDateTimeInISO8601Format(),
-      github_url: "https://github.com/ChukwunonsoFrank/hng12-backend-task-one",
+      github_url: "https://github.com/ChukwunonsoFrank/hng12-backend-stage-zero",
     })
   }
 }
