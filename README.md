@@ -35,14 +35,14 @@ The API will be accessible at the following endpoint:
 
 #### Request format
 ```bash
-curl http://localhost:3333/api/user
+curl https://hng12-backend-stage-zero-production.up.railway.app/api/user 
 ```
 
 #### Response format
 ```json
 {
-  "email": "example@gmail.com",
-  "current_datetime": "2025-01-29T20:32:31.894Z",
+  "email": "franknonso114@gmail.com",
+  "current_datetime": "2025-01-29T22:36:39.060Z",
   "github_url": "https://github.com/example-repo/hng12-backend-stage-zero"
 }
 ```
