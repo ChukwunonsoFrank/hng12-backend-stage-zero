@@ -52,7 +52,7 @@ curl http://localhost:3333/api/user
 As shown below, we are making a GET request with cURL with jq(for pretty printing JSON responses) but you can make use of any API testing tool available to you.
 
 #### Sample GET request
-![Sample GET request](https://github.com/ChukwunonsoFrank/hng12-backend-stage-zero/blob/main/assets/sample-get-request.png)
+![Sample GET request](https://github.com/ChukwunonsoFrank/hng12-backend-stage-zero/blob/main/assets/example-get-request.png)
 
 ## Backlinks
 [Hire NodeJS Developers](https://hng.tech/hire/nodejs-developers)
